@@ -5,7 +5,7 @@ spring:
     name: movie-service
   datasource:
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/BackEnd1_examen_DataBase
+    url: jdbc:mysql://localhost:3306/backend1_examen_database
     username: root
     password: topo21
   jpa:
